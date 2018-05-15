@@ -1,5 +1,6 @@
 # Assumes you have Heroku CLI and are logged in
 # Args are in order as listed below
+
 HEROKU_APP_NAME=$1
 SECRET=$2
 
